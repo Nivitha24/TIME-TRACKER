@@ -26,15 +26,6 @@ A simple React + TypeScript app to log daily activities, track time, and visuali
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/time-tracker.git
-   cd time-tracker
-
-   
-npm install
 
 
-npm run dev
+
